@@ -229,15 +229,6 @@ As documented in [`FAILURE_ANALYSIS.md`](FAILURE_ANALYSIS.md):
 
 ---
 
-## 👥 Contributors
-
-* **Abubakar Khan** (USN: `1RUA24CSE0010`)
-* **Abhishek D Nagoor** (USN: `1RUA24CSE0009`)
-* **Aditi M** (USN: `1RUA24CSE0019`)
-
-*School of Computer Science and Engineering (SoCSE), RV University, Bengaluru, India.*
-
----
 
 ## 📚 References
 
