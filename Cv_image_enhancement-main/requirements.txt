@@ -7,4 +7,5 @@ scipy>=1.10
 pandas>=2.0
 pillow>=10
 matplotlib>=3.7
+lowlight
 # optional, for official metrics (need internet for weights): pip install lpips pyiqa
